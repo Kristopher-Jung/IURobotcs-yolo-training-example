@@ -4,11 +4,7 @@
 underwater object detection test.mp4
 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/qct8qz-YiIY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/qct8qz-YiIY/0.jpg)](https://www.youtube.com/watch?v=qct8qz-YiIY)
 
 
 mean acc precision chart
@@ -18,5 +14,3 @@ mean acc precision chart
 training loss chart
 
 <img src="./script/chart.png">
-
-
